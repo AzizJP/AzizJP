@@ -22,6 +22,7 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-4A4A4A?style=for-the-badge&logo=Express&logoColor=F7FF7A)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4A4A4A?style=for-the-badge&logo=MongoDB&logoColor=2ED919)
 
-### Follow me
+### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-4A4A4A?style=for-the-badge&logo=Telegram)](https://t.me/aziz_jp)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-4A4A4A?style=for-the-badge&logo=LinkedIn&logoColor=196CD9)](https://www.linkedin.com/in/aziz-jp/)
+[![Email](https://img.shields.io/badge/-Email-4A4A4A?style=for-the-badge&logo=email&logoColor=196CD9)](mailto:t1-zer@yandex.ru)
