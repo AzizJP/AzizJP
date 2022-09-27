@@ -13,6 +13,6 @@
 - ⚡ Fun fact: ...
 -->
 
-Language and tools
+![Flutter](https://img.shields.io/badge/-Flutter-808AB3)
 
 Follow me
