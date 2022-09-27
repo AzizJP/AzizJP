@@ -1,6 +1,6 @@
-[![Header](https://github.com/AzizJP/AzizJP/blob/main/assets/LinkedIn-%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80.gif)](https://t.me/aziz_jp)
+[![Header](https://github.com/AzizJP/AzizJP/blob/main/assets/Front-End-banner%20%D1%81%20%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%B5%D0%B9.gif)](https://t.me/aziz_jp)
 
-About me
+## Hi, my name is Aziz. I`m a Front-End Developer living in Saint Petersburg, Russia
 
 
 - 🔭 I’m currently working on ...
