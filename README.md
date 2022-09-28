@@ -1,6 +1,6 @@
 [![Header](https://github.com/AzizJP/AzizJP/blob/main/assets/Front-End-banner%20%D1%81%20%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%B5%D0%B9.gif)](https://t.me/aziz_jp)
 
-## Hi, my name is Aziz. I`m a Front-End Developer living in Saint Petersburg, Russia
+## Hi, my name is Aziz. I`m a Frontend Developer living in Saint Petersburg, Russia
 
 ### Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-4A4A4A?style=for-the-badge&logo=HTML5&logoColor=FF7600)
