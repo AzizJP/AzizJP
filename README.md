@@ -17,7 +17,7 @@
 [![Mesto](https://img.shields.io/badge/-Mesto&nbsp;backend-4A4A4A?style=for-the-badge&logo=Express&logoColor=F7FF7A)](https://github.com/AzizJP/express-mesto-gha)
 [![RussianTravel](https://img.shields.io/badge/-Russian&nbsp;Travel-4A4A4A?style=for-the-badge&logo=HTML5&logoColor=FF7600)](https://github.com/AzizJP/russian-travel)
 
-### React.js projects:
+### React pet projects:
 
 **Working with API**
 
