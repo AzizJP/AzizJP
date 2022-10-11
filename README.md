@@ -19,12 +19,15 @@
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizJP&layout=compact&bg_color=4A4A4A&text_color=FFFFFF&border_color=4A4A4A&title_color=FFFFFF&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 
-### Educational projects
+### Educational projects:
 [![Mesto](https://img.shields.io/badge/-Mesto&nbsp;with&nbsp;auth-4A4A4A?style=for-the-badge&logo=React&logoColor=73C6E5)](https://github.com/AzizJP/react-mesto-auth)
 [![Mesto](https://img.shields.io/badge/-Mesto&nbsp;on&nbsp;Javascript-4A4A4A?style=for-the-badge&logo=JavaScript&logoColor=FFE300)](https://github.com/AzizJP/mesto)
 [![Mesto](https://img.shields.io/badge/-Mesto&nbsp;backend-4A4A4A?style=for-the-badge&logo=Express&logoColor=F7FF7A)](https://github.com/AzizJP/express-mesto-gha)
 [![RussianTravel](https://img.shields.io/badge/-Russian&nbsp;Travel-4A4A4A?style=for-the-badge&logo=HTML5&logoColor=FF7600)](https://github.com/AzizJP/russian-travel)
 
-### My pet projects
+### React.js projects:
+
+**Working with API**
+
 [![Dictionary](https://img.shields.io/badge/-dictionary-4A4A4A?style=for-the-badge&logo=React&logoColor=73C6E5)](https://github.com/AzizJP/dictionary)
 [![CurrencyConverter](https://img.shields.io/badge/-Currency&nbsp;Converter-4A4A4A?style=for-the-badge&logo=React&logoColor=73C6E5)](https://github.com/AzizJP/currency-converter)
