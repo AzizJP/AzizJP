@@ -11,14 +11,6 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-4A4A4A?style=for-the-badge&logo=Express&logoColor=F7FF7A)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4A4A4A?style=for-the-badge&logo=MongoDB&logoColor=2ED919)
 
-### Contacts
-[![Telegram](https://img.shields.io/badge/-Telegram-4A4A4A?style=for-the-badge&logo=Telegram)](https://t.me/aziz_jp)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-4A4A4A?style=for-the-badge&logo=LinkedIn&logoColor=196CD9)](https://www.linkedin.com/in/aziz-jp/)
-[![Email](https://img.shields.io/badge/-email-4A4A4A?style=for-the-badge&logo=gmail&logoColor=196CD9)](mailto:t1-zer@yandex.ru)
-
-### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizJP&layout=compact&bg_color=4A4A4A&text_color=FFFFFF&border_color=4A4A4A&title_color=FFFFFF&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Educational projects:
 [![Mesto](https://img.shields.io/badge/-Mesto&nbsp;with&nbsp;auth-4A4A4A?style=for-the-badge&logo=React&logoColor=73C6E5)](https://github.com/AzizJP/react-mesto-auth)
 [![Mesto](https://img.shields.io/badge/-Mesto&nbsp;on&nbsp;Javascript-4A4A4A?style=for-the-badge&logo=JavaScript&logoColor=FFE300)](https://github.com/AzizJP/mesto)
@@ -31,3 +23,11 @@
 
 [![Dictionary](https://img.shields.io/badge/-dictionary-4A4A4A?style=for-the-badge&logo=React&logoColor=73C6E5)](https://github.com/AzizJP/dictionary)
 [![CurrencyConverter](https://img.shields.io/badge/-Currency&nbsp;Converter-4A4A4A?style=for-the-badge&logo=React&logoColor=73C6E5)](https://github.com/AzizJP/currency-converter)
+
+### Contacts
+[![Telegram](https://img.shields.io/badge/-Telegram-4A4A4A?style=for-the-badge&logo=Telegram)](https://t.me/aziz_jp)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-4A4A4A?style=for-the-badge&logo=LinkedIn&logoColor=196CD9)](https://www.linkedin.com/in/aziz-jp/)
+[![Email](https://img.shields.io/badge/-email-4A4A4A?style=for-the-badge&logo=gmail&logoColor=196CD9)](mailto:t1-zer@yandex.ru)
+
+### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizJP&layout=compact&bg_color=4A4A4A&text_color=FFFFFF&border_color=4A4A4A&title_color=FFFFFF&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
