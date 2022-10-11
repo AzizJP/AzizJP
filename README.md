@@ -28,6 +28,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-4A4A4A?style=for-the-badge&logo=Telegram)](https://t.me/aziz_jp)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-4A4A4A?style=for-the-badge&logo=LinkedIn&logoColor=196CD9)](https://www.linkedin.com/in/aziz-jp/)
 [![Email](https://img.shields.io/badge/-email-4A4A4A?style=for-the-badge&logo=gmail&logoColor=196CD9)](mailto:t1-zer@yandex.ru)
-
+<!-- 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizJP&layout=compact&bg_color=4A4A4A&text_color=FFFFFF&border_color=4A4A4A&title_color=FFFFFF&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizJP&layout=compact&bg_color=4A4A4A&text_color=FFFFFF&border_color=4A4A4A&title_color=FFFFFF&border_radius=0)](https://github.com/anuraghazra/github-readme-stats) -->
