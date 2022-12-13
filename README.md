@@ -19,6 +19,7 @@
 
 ### React pet projects:
 
+[![Task Manager](https://img.shields.io/badge/-Task&nbsp;Manager-4A4A4A?style=for-the-badge&logo=React&logoColor=73C6E5)](https://github.com/AzizJP/task-manager)
 [![To do list](https://img.shields.io/badge/-To&nbsp;do&nbsp;list-4A4A4A?style=for-the-badge&logo=React&logoColor=73C6E5)](https://github.com/AzizJP/to-do-list)
 [![CurrencyConverter](https://img.shields.io/badge/-Currency&nbsp;Converter-4A4A4A?style=for-the-badge&logo=React&logoColor=73C6E5)](https://github.com/AzizJP/currency-converter)
 [![Dictionary](https://img.shields.io/badge/-dictionary-4A4A4A?style=for-the-badge&logo=React&logoColor=73C6E5)](https://github.com/AzizJP/dictionary)
@@ -26,5 +27,4 @@
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-4A4A4A?style=for-the-badge&logo=Telegram)](https://t.me/aziz_jp)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-4A4A4A?style=for-the-badge&logo=LinkedIn&logoColor=196CD9)](https://www.linkedin.com/in/aziz-jp/)
 [![Email](https://img.shields.io/badge/-email-4A4A4A?style=for-the-badge&logo=gmail&logoColor=196CD9)](mailto:t1-zer@yandex.ru)
